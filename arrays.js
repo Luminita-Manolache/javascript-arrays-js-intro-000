@@ -5,4 +5,3 @@ function addElementToBeginningOfArray(array, element) {
   newArr = [...array, element];
   return newArr;
 }
-
