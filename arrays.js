@@ -43,4 +43,3 @@ function removeElementFromEndOfArray(array){
   newArr = array.slice(0, array.length - 1);
   return newArr;
 }
-
