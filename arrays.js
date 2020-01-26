@@ -16,5 +16,3 @@ function addElementToEndOfArray(array, element) {
   newArr = [element, ...array];
   return newArr;
 }
-
-
